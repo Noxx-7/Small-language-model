@@ -126,7 +126,6 @@ This codebase evolved through 200+ iterations. Key bugs fixed:
 - FP16 overflow in attention logits
 - Gradient explosion at scale
 
-See the companion book *"200 Iterations: Cracking the Code of the Small Language Model"* for detailed debugging case studies.
-
+See the companion book *"200 Iterations: Cracking the Code"* for detailed debugging case studies.
 ---
 
